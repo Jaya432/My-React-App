@@ -1,0 +1,23 @@
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    height: 500px;
+    background-image:url(https://greenstories.co.in/wp-content/uploads/2019/12/organic-food-definition-benefits-cost-1068x713-1.jpg)
+}
+.buttonWrapper {
+    display: flex;
+    justify-content: space-around;
+    width: 60%;
+    height: 40px;
+    color: white;
+    padding: 2rem;
+}
+.content1{
+    height: 400px;
+    padding: 3rem;
+    font-size: large;
+    
+}

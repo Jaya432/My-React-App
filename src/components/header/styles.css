@@ -1,0 +1,9 @@
+.headerContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    background-color: lightgreen;
+    color: darkgreen;
+    font-size: larger;
+}
